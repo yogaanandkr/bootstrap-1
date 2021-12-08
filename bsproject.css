@@ -1,7 +1,16 @@
 .outbox{
-    height: 600px;
-    width:auto;
-    margin-top: 100px;
+    height: 900px;
+    width:100em;
+    margin-top: 30px;
+    margin-left: 180px;
     background-color:#184e77;
     border-radius: 30px;
+}
+.inbox{
+    position: absolute;
+    top: 300px;
+    left: 350px;
+}
+img{
+    height: 300px;
 }
