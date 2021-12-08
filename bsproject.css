@@ -25,6 +25,20 @@ img{
     font-weight: bold;
     font-weight: 900;
 }
+.logo{
+    height: 30px;
+    width: 30px;
+
+}
+.X{
+    color: black;
+    font-size:50px;
+}
+.discription{
+    font-family: 'Pacifico', cursive;
+
+    
+}
 
 
 
