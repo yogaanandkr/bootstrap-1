@@ -12,7 +12,7 @@ body{
 .inbox{
     position: absolute;
     top: 180px;
-    left: 420px;
+    left: 500px;
     border-radius: 30px;
     /* border-left: 30px */
 }
